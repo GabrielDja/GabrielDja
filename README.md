@@ -2,7 +2,9 @@
 
 I'm French,  
 I love creating Resource Packs and Datapacks for Minecraft **(Mods too, but I'm still learning)**.  
-And I'm a 3D Artist, 3D Animator, UI/UX Designer, Video Editor and Programmer!⚡
+And I'm a 3D Animator/Artist, App/Game Developer and UI/UX Designer⚡
+
+<a href=""><img src="https://static.wixstatic.com/media/31958c_f470efde8c834bf78b290907379ad347~mv2.png" alt="The Creaking - MC Animation (GabrielDja)"></a>
 
 ## My Stats
 [![GabrielDja's Stats](https://github-readme-stats.vercel.app/api?username=gabrieldja&hide=prs,contribs&show_icons=true&theme=midnight-purple&rank_icon=github&border_radius=10&hide_border=true)]()
@@ -16,6 +18,5 @@ And I'm a 3D Artist, 3D Animator, UI/UX Designer, Video Editor and Programmer!�
 <a href=""><img src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--programming-language-logos-icons-1720083.png" alt="Python" style="width: auto; height: 40px"></a>
 
 ## Links
-My Website: https://gabrieldjalayer.wixsite.com/gabrieldja-gaming-yt/en  
-DJAMinimation Website: https://gabrieldjalayer.wixsite.com/djaminimation/en  
-🔥Head of DJAMinimation studio.
+[**My Website**](https://gabrieldjalayer.wixsite.com/gabrieldja-gaming-yt/en) - [**DJAMinimation Website**](https://gabrieldjalayer.wixsite.com/djaminimation/en) - [**Linktree**](https://linktr.ee/GabrielDja)  
+🔥 Head of DJAMinimation Studio (The studio is not officially certified, but I plan to be in the future).
