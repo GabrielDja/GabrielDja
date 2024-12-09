@@ -5,7 +5,9 @@ I love creating Resource Packs and Datapacks for Minecraft **(Mods too, but I'm 
 And I'm a 3D Artist, 3D Animator, UI/UX Designer, Video Editor and Programmer!⚡
 
 ## My Stats
-![GabrielDja's stats](https://github-readme-stats.vercel.app/api?username=gabrieldja&hide=prs,contribs&show_icons=true&theme=radical&rank_icon=github)
+[![GabrielDja's Stats](https://github-readme-stats.vercel.app/api?username=gabrieldja&hide=prs,contribs&show_icons=true&theme=midnight-purple&rank_icon=github&border_radius=10&hide_border=true)]()
+
+[![GabrielDja's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldja&theme=midnight-purple&border_radius=10&hide_border=true)]()
 
 ## Programming Skills
 <a href=""><img src="https://static.wixstatic.com/media/31958c_24114acbaf8e4321bfc049923ae1f68d~mv2.png" alt="HTML" style="width: auto; height: 40px"></a>
