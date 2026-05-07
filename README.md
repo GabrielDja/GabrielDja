@@ -29,7 +29,7 @@ I create resource packs and datapacks for Minecraft Java.
 ## Links
 [**Linktree**](https://linktr.ee/GabrielDja) ● [**My Website**](https://gabrieldjalayer.wixsite.com/gabrieldja-gaming-yt/en) ● [**DJAMinimation Website**](https://gabrieldjalayer.wixsite.com/djaminimation/en)  
 
-# Stats
+## Stats
 [![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielDja&theme=github_dark)]()
 [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielDja&theme=github_dark)]()
 <!--
