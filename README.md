@@ -28,10 +28,8 @@ I create resource packs and datapacks for Minecraft Java.
 
 ## Links
 [**Linktree**](https://linktr.ee/GabrielDja) ● [**My Website**](https://gabrieldjalayer.wixsite.com/gabrieldja-gaming-yt/en) ● [**DJAMinimation Website**](https://gabrieldjalayer.wixsite.com/djaminimation/en)  
-🔥 Head of DJAMinimation Studio (The studio is not officially certified, but I plan to be in the future).
 
----
-
+# Stats
 [![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielDja&theme=github_dark)]()
 [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielDja&theme=github_dark)]()
 <!--
